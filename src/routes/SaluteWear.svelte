@@ -82,10 +82,10 @@ const products : Product[] = [
 	},
 	{
 		id: "12",
-		name: "Grey and White Tee",
+		name: "Blue and White Hat and Tee Combo",
 		price: 25,
 		quantity: 1,
-		photo: "./bkblkwhtee.png",
+		photo: "./bluteebluhatcombo.png",
 	},
 	{
 		id: "13",
@@ -107,7 +107,7 @@ const products : Product[] = [
 
 
 <div class="container h-full mx-auto flex justify-center items-center">
-	<section class="grid grid-cols-5 gap-4">
+	<section class="grid grid-cols-5 gap-3">
 		<article class="col-span-5">
 			<h1 class="text-4xl">Salute Weightlifters</h1>
 		</article>
