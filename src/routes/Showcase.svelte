@@ -16,7 +16,7 @@
   <img src={Bgimg} alt="" srcset="">
   
   <div class="container mx-auto px-6 py-20 text-center z-10 absolute ">
-    <h1 class={animate ? 'fade-slide-up  animate mb-6 text-4xl font-bold text-center text-primary-800' : 'fade-slide-up mb-6 text-4xl font-bold text-center text-filled-800'}>
+    <h1 class={animate ? 'fade-slide-up  animate mb-6 text-4xl font-bold text-center text-warning-800' : 'fade-slide-up mb-6 text-4xl font-bold text-center text-filled-800'}>
       Wear the clothes that show your strength 
     </h1>
     <h2 class={animate ? 'fade-slide-up animate mb-6 text-4xl font-bold text-center text-filled-800' : 'fade-slide-up mb-6 text-4xl font-bold text-center text-filled-800'}>
